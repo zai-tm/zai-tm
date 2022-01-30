@@ -1,5 +1,6 @@
-### Hi there 👋
+I stole this cool display from [stuartt](https://github.com/RealMCoded)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMCoded&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zai-tm/zai-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
