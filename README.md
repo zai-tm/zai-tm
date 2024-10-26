@@ -1,6 +1,6 @@
 I stole this cool display from [stuartt](https://github.com/RealMCoded) (he used to use it)
 
-I write bad code, the make it worse
+I write bad code, then make it worse
 
 ## langauge s???!
 - c#
