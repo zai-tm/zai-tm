@@ -1,12 +1,4 @@
-I stole this cool display from [stuartt](https://github.com/RealMCoded) (he used to use it)
-
 I write bad code, then make it worse
-
-## langauge s???!
-- c#
-- javascript (only if lazy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zai-tm&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zai-tm/zai-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
